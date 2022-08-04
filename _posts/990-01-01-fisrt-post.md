@@ -1,6 +1,8 @@
 ---
 layout: post
-title: Title of the post
+title: My First Jekyll Post
+tags: first markdown example
+categories: demo
 ---
 
 This year is 2022.
